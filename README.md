@@ -2,7 +2,7 @@
 
 Análisis en Excel (Power Query, modelo de datos, tablas dinámicas y segmentadores) que compara los centros de datos mapeados en OpenStreetMap (OSM) con los totales reportados por país en Data Center Map.
 
-![Dashboard](dashboard.png)
+![docs](dashboard.png)
 
 ## Pregunta
 
